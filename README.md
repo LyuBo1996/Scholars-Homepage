@@ -21,3 +21,7 @@
 * Kai Chen http://kaichen.work/
 
 * Michael Wiebe https://michaelwiebe.com/
+
+* Danila Serra http://people.tamu.edu/~dserra/
+
+* Professor Kerry Brown https://www.kcl.ac.uk/people/kerry-brown
