@@ -15,3 +15,9 @@
 * 李宏毅 http://speech.ee.ntu.edu.tw/~tlkagk/index.html
 
 * Professor Kerry Brown https://www.kcl.ac.uk/people/kerry-brown
+
+* Mingze Gao https://mingze-gao.com/
+
+* Kai Chen http://kaichen.work/
+
+* Michael Wiebe https://michaelwiebe.com/
