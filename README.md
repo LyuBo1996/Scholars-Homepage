@@ -29,3 +29,7 @@
 * Sean Cao https://robinson.gsu.edu/profile/s-sean-cao/
 
 * Tobias Klein https://www.tobiasklein.ws/home
+
+* JOHN H. COCHRANE https://www.johnhcochrane.com/
+
+* Lucian Arye Bebchuk http://www.law.harvard.edu/faculty/bebchuk/
